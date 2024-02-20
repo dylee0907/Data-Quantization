@@ -1,4 +1,4 @@
-# Data-Quantization
+# Data_Quantization
 
 This project contains PyTorch verison of data quantization method based on Darknet-19, Yolo V2 backbone model.
 ![image](https://github.com/dylee0907/Data-Quantization/assets/79738681/afafcb0e-2418-474d-820d-b72208726b48)
